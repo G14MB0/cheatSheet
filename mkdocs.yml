@@ -2,6 +2,7 @@ site_name: My Python Cheat Sheet
 # pip install mkdocstrings[python]>=0.18 per installare Griffe altrimenti nun va
 nav:
   - Sheet 1: 'sheet_1.md'
+  - Python C: 'pythonC.md'
 
 
 plugins:
