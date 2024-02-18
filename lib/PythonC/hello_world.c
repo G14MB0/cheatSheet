@@ -1,7 +1,7 @@
 #include <Python.h>
 
 //######################################################
-//##      this are  methods                            ##
+//##      this are  methods                           ##
 //######################################################
 static PyObject* hello_world(PyObject* self) {
     return PyUnicode_FromString("Hello, World!");
